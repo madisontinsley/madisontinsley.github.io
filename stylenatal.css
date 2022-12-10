@@ -1,0 +1,27 @@
+ody {
+    background-color: plum;
+    margin: 70px;
+    font-family: "Tahoma"
+  
+  }
+  img {
+    size: 2rem;
+  margin-right: auto;
+   margin-left: auto;
+  }
+   h1 {
+     color: darkmagenta;
+     font-style: italic;
+    text-align: center;
+    margin: 20px;
+  }
+  .box {
+    background-color: lavender;
+    background-size: contain;
+  }
+  br{
+    display: block;
+    margin-bottom: 2px;
+    font-size:2px;
+    line-height: 2px;
+  }

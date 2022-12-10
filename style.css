@@ -1,0 +1,26 @@
+body {
+    background-color: plum;
+    margin: 70px;
+    font-family: "Tahoma"
+
+  }
+  img {
+   margin-right: auto;
+   margin-left: auto;
+  }
+   h1 {
+     color: darkmagenta;
+     font-style: italic;
+    text-align: center;
+    margin: 40px;
+}
+p{
+    margin: 40px;
+}
+.bolded{
+    font-weight: bold;
+}
+.box {
+    background-color: lavender;
+    background-size: auto;
+}
